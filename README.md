@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm Andres, a backend developer with a passion for
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/sql.png" alt="SQL"/>
+  <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL"/>
   <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL"/>
   <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript"/>
   <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular"/>
