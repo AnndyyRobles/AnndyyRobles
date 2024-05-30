@@ -9,18 +9,20 @@ Welcome to my GitHub profile! I'm Andres, a backend developer with a passion for
 - **Learning:** I'm a fast learner who enjoys keeping up with the latest trends and technologies in software development.
 - **Hobbies:** When I'm not coding, you can find me playing basketball or enjoying nature walks.
 
+# Technologies & Tools
+
 <p align="left">
-  <img src="https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=Python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Django-000?style=for-the-badge&logo=Django&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C++-000?style=for-the-badge&logo=C%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C-000?style=for-the-badge&logo=C&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=JavaScript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=HTML5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=CSS3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=PostgreSQL&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=TypeScript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Angular-000?style=for-the-badge&logo=Angular&logoColor=white" />
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
+  <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django"/>
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/sql.png" alt="SQL"/>
+  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL"/>
+  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript"/>
+  <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular"/>
 </p>
 
 <!--
