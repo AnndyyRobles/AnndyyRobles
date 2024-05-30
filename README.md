@@ -1,15 +1,17 @@
 # Welcome to My GitHub Profile
 
-Welcome to my GitHub profile! I'm Andres, a backend developer with a passion for fast learning, basketball, and nature walks. 🌲🏀 Here, you'll find a collection of my projects and solutions that demonstrate my skills and interests.
+Hey there! 👋 Welcome to my corner of the digital world. I'm Andres, a backend developer with a love for problem-solving, fast learning, and creating efficient solutions. Dive into my projects and explore the innovative solutions that demonstrate my skills and interests. Let's code something awesome together! 🚀
 
 ## About Me
 
-👋 I'm Andres, a backend developer who loves tackling complex problems and finding efficient solutions. My interests include:
-- **Backend Development:** I specialize in creating robust backend systems using various technologies.
-- **Learning:** I'm a fast learner who enjoys keeping up with the latest trends and technologies in software development.
-- **Hobbies:** When I'm not coding, you can find me playing basketball or enjoying nature walks.
+I'm Andres, a backend developer with a passion for crafting robust backend systems and databases. I thrive on using Django and JavaScript to build dynamic web applications. Currently, I'm diving deep into Angular to develop even more robust and scalable projects.
 
-# Technologies & Tools
+- **Backend Development:** I specialize in creating and maintaining backend systems using a variety of technologies.
+- **Databases:** I enjoy working with databases to ensure data integrity and efficiency.
+- **Tech Stack:** My favorite tools include Django for backend and JavaScript for front-end interactions.
+- **Learning Journey:** Currently expanding my skills in Angular to build more complex and scalable applications.
+
+## Technologies & Tools
 
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
