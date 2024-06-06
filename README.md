@@ -4,7 +4,7 @@ Hey there! 👋 Welcome to my corner of the digital world. I'm Andres, a backend
 
 ## About Me
 
-I'm Andres, a backend developer with a passion for crafting robust backend systems and databases. I thrive on using Django and JavaScript to build dynamic web applications. Currently, I'm diving deep into Angular to develop even more robust and scalable projects.
+Backend developer with a passion for crafting robust backend systems and databases. I thrive on using Django and JavaScript to build dynamic web applications. Currently, I'm diving deep into Angular to develop even more robust and scalable projects.
 
 - **Backend Development:** I specialize in creating and maintaining backend systems using a variety of technologies.
 - **Databases:** I enjoy working with databases to ensure data integrity and efficiency.
