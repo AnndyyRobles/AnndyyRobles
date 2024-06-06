@@ -26,7 +26,10 @@ I'm Andres, a backend developer with a passion for crafting robust backend syste
   <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript"/>
   <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular"/>
 </p>
-![trophy](https://github-profile-trophy.vercel.app/?username=AndynyRobles&theme=onedark)
+## 🏆 My GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AnndyyRobles&theme=juicyfresh&no-bg=true&no-frame=true&column=3&title=Stars,Commit,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **AnndyyRobles/AnndyyRobles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
