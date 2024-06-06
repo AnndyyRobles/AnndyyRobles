@@ -16,6 +16,7 @@ I'm Andres, a backend developer with a passion for crafting robust backend syste
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
   <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django"/>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/>
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
@@ -27,10 +28,12 @@ I'm Andres, a backend developer with a passion for crafting robust backend syste
   <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular"/>
 </p>
 
-
 ## Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AnndyyRobles&theme=juicyfresh&no-bg=true&no-frame=true&column=3&title=Stars,Commit,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AnndyyRobles&theme=juicyfresh&no-bg=true&no-frame=true&column=4&title=Stars,Commit,Repositories,MultiLanguage" alt="GitHub Trophies" style="margin: 10px;"/>
+</div>
+
 
 <!--
 **AnndyyRobles/AnndyyRobles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
