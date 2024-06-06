@@ -26,7 +26,9 @@ I'm Andres, a backend developer with a passion for crafting robust backend syste
   <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript"/>
   <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular"/>
 </p>
-## 🏆 My GitHub Trophies
+
+
+## Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AnndyyRobles&theme=juicyfresh&no-bg=true&no-frame=true&column=3&title=Stars,Commit,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
 
