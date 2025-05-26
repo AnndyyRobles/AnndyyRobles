@@ -10,22 +10,28 @@ Backend developer with a passion for crafting robust backend systems and databas
 
 ## Technologies & Tools
 
-### Core:
 <div align="center">
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="NodeJS"/>
-  <img src="https://img.icons8.com/color/48/000000/express-js.png" alt="Express.js"/>
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>
-  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL"/>
-  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
+  <h3><strong>Core:</strong></h3>
+</div>
+<div align="center">
+  <img src="https://img.icons8.com/color/54/000000/nodejs.png" alt="NodeJS"/>
+  <img src="https://img.icons8.com/color/54/000000/express-js.png" alt="Express.js"/>
+  <img src="https://img.icons8.com/color/54/000000/react-native.png" alt="React"/>
+  <img src="https://img.icons8.com/color/54/000000/postgreesql.png" alt="PostgreSQL"/>
+  <img src="https://img.icons8.com/color/54/000000/typescript.png" alt="TypeScript"/>
+  <img src="https://img.icons8.com/color/54/000000/javascript.png" alt="JavaScript"/>
 </div>
 
-### DSA:
+<div align="center">
+  <h3><strong>DSA:</strong></h3>
+</div>
 <div align="center">
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
 </div>
 
-### Other Technologies:
+<div align="center">
+  <h3><strong>Other Technologies:</strong></h3>
+</div>
 <div align="center">
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
   <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django"/>
@@ -40,16 +46,14 @@ Backend developer with a passion for crafting robust backend systems and databas
   <img src="https://github-profile-trophy.vercel.app/?username=AnndyyRobles&theme=juicyfresh&no-bg=true&no-frame=true&column=4&title=Stars,Commit,Repositories,MultiLanguage" alt="GitHub Trophies" style="margin: 10px;"/>
 </div>
 
-
 <!--
-**AnndyyRobles/AnndyyRobles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AnndyyRobles/AnndyyRobles** is a ✨ *special* ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I'm currently working on ...
+- 🌱 I'm currently learning ...
+- 👯 I'm looking to collaborate on ...
+- 🤔 I'm looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
