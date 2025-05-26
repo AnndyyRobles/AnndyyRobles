@@ -23,14 +23,14 @@ Backend developer with a passion for crafting robust backend systems and databas
 </div>
 
 <div align="center">
-  <h3><strong>DSA:</strong></h3>
+  <h2><strong>DSA:</strong></h2>
 </div>
 <div align="center">
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
 </div>
 
 <div align="center">
-  <h3><strong>Other Technologies:</strong></h3>
+  <h2><strong>Other Technologies:</strong></h2>
 </div>
 <div align="center">
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
