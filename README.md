@@ -25,7 +25,7 @@ Backend developer with a passion for crafting robust backend systems and databas
   <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL"/>
   <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL"/>
   <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript"/>
-  <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular"/>
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="NodeJS"/>
 </p>
 
 ## Trophies
