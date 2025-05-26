@@ -11,7 +11,7 @@ Backend developer with a passion for crafting robust backend systems and databas
 ## Technologies & Tools
 
 <div align="center">
-  <h3><strong>Core:</strong></h3>
+  <h2><strong>Core:</strong></h2>
 </div>
 <div align="center">
   <img src="https://img.icons8.com/color/54/000000/nodejs.png" alt="NodeJS"/>
